@@ -25,8 +25,8 @@ fs-module/ ├── index.js
 
 1. **Clone this repo** or copy the files into your folder:
    ```bash
-   git clone https://github.com/your-username/node-static-server.git
-   cd node-static-server
+   git clone https://github.com/Sohaibkundi2/NodeJS-Practice.git
+   cd Nginx-server
 
 2. Run the server 
 ```bash 
