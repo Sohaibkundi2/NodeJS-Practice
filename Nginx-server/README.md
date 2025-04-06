@@ -16,7 +16,13 @@ This is a basic static file server built using **Node.js** without any external 
 ---
 
 ## 📁 Project Structure
-fs-module/ ├── index.js
+
+- **Nginx-server/**
+  - `index.js`
+  - `index.html`
+  - `contact.html`
+  - `about.html`
+
 
 
 ---
