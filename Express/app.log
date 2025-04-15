@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Fetched all users","timestamp":"2025-04-15T17:14:42.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users/\",\"status\":\"200\",\"responseTime\":\"7.035\"}","timestamp":"2025-04-15T17:14:42.467Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"For Test:  Fetched all users","timestamp":"2025-04-15T17:16:53.276Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"For Test: This is an error message","timestamp":"2025-04-15T17:16:53.281Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"For Test: This is a warning message","timestamp":"2025-04-15T17:16:53.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/users/\",\"status\":\"200\",\"responseTime\":\"6.065\"}","timestamp":"2025-04-15T17:16:53.285Z"}
